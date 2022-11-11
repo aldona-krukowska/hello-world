@@ -1,8 +1,8 @@
 # hello-world
-
+Hi! 👋 I'm Aldona
 `This is my first repository and the first readme note!`
 
-You should definitely check out [this link](https://www.linkedin.com/in/aldona-krukowska/ "Its Linkedin!") if you want to know more about me on a professional level.
+You should definitely check out [this link](https://www.linkedin.com/in/aldona-krukowska/ "Its Linkedin!") if you want to know more about me on a professional level 📫
 
 ---
 
